@@ -67,7 +67,7 @@ Além disso utilizou-se como fonte de informação a biblioteca digital IEEE Exp
 
 ## Acidentes e Desastres Ambientais no Pará
 
-<img src="Imagens/linha-do-tempo-desastres-no-para.png" alt="Linha do tempo" width="20%" height="20%" align="center"/>
+<img src="Imagens/linha-do-tempo-desastres-no-para.png" alt="Linha do tempo" align="center"/>
 
 ## Referências 
 
