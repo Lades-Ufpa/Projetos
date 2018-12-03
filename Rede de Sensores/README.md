@@ -69,6 +69,22 @@ Além disso utilizou-se como fonte de informação a biblioteca digital IEEE Exp
 
 <img src="Imagens/linha-do-tempo-desastres-no-para.png" alt="Linha do tempo" align="center"/>
 
+### Megaoperação fecha 13 serrarias e apreende R$ 6 milhões em madeira ilegal, 2009.
+
+A operação Caapora foi comandada pelo ministro do [Meio Ambiente](http://www.mma.gov.br/informma/item/5382-megaoperacao-fecha-13-serrarias-e-apreende-r-6-milhoes-em-madeira-ilegal), Carlos Minc, e envolveu 140 homens e 30 viaturas. Treze serrarias instaladas no local arrasaram 80 mil dos 250 mil hectares que compõem a área indígena, aterraram o rio e mantiveram trabalhadores em situação semelhante ao trabalho escravo, cerca de 200 fornos de carvão foram destruídos e foi apreendida madeira suficiente para encher 400 caminhões, avaliada em R$ 6 milhões. Até agora sete serrarias foram embargadas e seis tratores, dois caminhões, vários motores de serras, além de armas e munições foram apreendidos. Posteriormente, as demais foram fechadas.
+
+### A Defesa Civil concluiu o levantamento do desastre ocorrido em Abaetetuba, 2014.
+
+Segundo [G1 PA](http://g1.globo.com/pa/para/noticia/2014/01/defesa-civil-divulga-relatorio-do-desastre-ocorrido-em-abaetetuba.html), a Defesa Civil concluiu o levantamento do desastre ocorrido em Abaetetuba no dia 4 de janeiro, quando dezenas de casas, no bairro São João, em Abaetetuba, foram destruídas após uma erosão provocada pela cheia do rio Maratauíra, um buraco se abriu e atravessou a rua, ''engolindo'' as casas ao redor. De acordo com o relatório, ao todo, 213 pessoas foram afetadas diretamente pelo desabamento das casas. A área do desastre atingiu cerca de mil metros quadrados.
+
+### Barcarena decreta situação de emergência após tragédia ambiental, 2015.
+
+A Prefeitura de Barcarena decretou [situação de emergência](http://g1.globo.com/pa/para/noticia/2015/10/barcarena-decreta-situacao-de-emergencia-apos-tragedia-ambiental.html) no município, localizado no nordeste do Pará, devido à tragédia ambiental causada pelo naufrágio de um navio que transportava 5 mil bois no dia 6 de outubro. O óleo da embarcação e corpos dos animais mortos se espalharam por praias do município, após o rompimento da barreira de contenção montada para conter os resíduos do acidente. [Segundo a Defesa Civil](http://g1.globo.com/pa/para/noticia/2015/11/barraqueiros-de-praia-afetada-por-naufragio-no-pa-pedem-providencias.html), a praia de Beja foi a mais atingida pelo óleo que vazou do interior da embarcação por conta das correntes marinhas que convergem em direção ao local, prejudicando barraqueiros e pescadores.
+
+### 
+
+
+
 ## Referências 
 
 > **Oliveira, F., D. (2015)** *“FTE-LEACH: Um Protocolo Energeticamente Eficiente e Tolerante a Falhas Aplicado às Redes Industriais de Sensores sem Fio”*, Tese (Doutorado), Universidade Federal do Rio Grande do Norte. Centro de Tecnologia –Programa de Pós-Graduação em Engenharia Elétrica e de Computação. Page 144;
