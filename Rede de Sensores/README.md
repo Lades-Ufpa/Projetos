@@ -65,6 +65,10 @@ Para atingir os objetivos deste projeto, utilizou-se simulação de eventos disc
 
 Além disso utilizou-se como fonte de informação a biblioteca digital IEEE Explorer (Institute of Electrical and Electronic Engineers) para buscar trabalhos relacionados com a temática de pesquisa, com finalidade fundamentar teoricamente e tecnicamente o projeto. Também foi usado o software GitKraken para o gerenciamento de versões dos códigos das simulações que são salvas dentro de um repositório público no Github, com intuito de facilitar o acompanhamento do orientador nas tarefas e também deixar público os artefatos gerados nesse projeto para contribuir com a comunidade acadêmica em geral. 
 
+## Acidentes e Desastres Ambientais no Pará
+
+<img src="Imagens/linha-do-tempo-desastres-no-para.png" alt="Linha do tempo" width="20%" height="20%" align="center"/>
+
 ## Referências 
 
 > **Oliveira, F., D. (2015)** *“FTE-LEACH: Um Protocolo Energeticamente Eficiente e Tolerante a Falhas Aplicado às Redes Industriais de Sensores sem Fio”*, Tese (Doutorado), Universidade Federal do Rio Grande do Norte. Centro de Tecnologia –Programa de Pós-Graduação em Engenharia Elétrica e de Computação. Page 144;
