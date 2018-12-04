@@ -93,6 +93,22 @@ A Polícia Civil do Pará e o Ministério Público do Estado realizaram a [Opera
 
 Segundo [Amazônia Real](http://amazoniareal.com.br/vazamento-de-rejeitos-da-hydro-alunorte-causa-danos-socioambientais-em-barcarena-no-para/) Treze comunidades ribeirinhas, viram seus quintais e poços artesianos serem tomados por uma lama vermelha, rejeitos químicos. Segundo o pesquisador do IEC (Instituto Evandro Chagas), as amostras analisadas tinham níveis de chumbo, sódio, nitrato e alumínio, sendo que este último está 25% acima do permitido para a saúde humana. A lama vermelha vista nas comunidades  São João, Burajuba, Sítio Conceição, Cupuaçu Boa Vista, São Lourenço Gibiriê, todas de remanescentes quilombolas, é de bauxita e outros produtos químicos. De acordo com o site da BBC Brasil, após negar irregularidades com o duto, a Hydro admitiu, em nota, a existência do canal encontrado por pesquisadores do Instituto Evandro Chagas (IEC). 
 
+###  Prefeito decreta situação de emergência em função da cheia do rio e do número de desalojados, 2018.
+
+A informação oficial é que o nível do Rio atingiu 10.90 metros, elevando para 300 o número de famílias em estado de risco. No [decreto](http://maraba.pa.gov.br/prefeito-decreta-situacao-de-emergencia-em-funcao-da-cheia-do-rio-e-do-numero-de-desalojados/) o prefeito Considera que os Rios Tocantins e Itacaiúnas devido ao elevado índice pluviométrico das chuvas nesta época, vem enchendo além do normal. O parecer da Coordenadoria Municipal de Defesa Civil, relata que a ocorrência deste desastre é favorável à declaração de Situação de Emergência, este decreto coloca em estado de emergência todas as secretarias do governo voltadas para área de estrutura, saúde e social, agilizando ainda o processo de ação das mesmas.
+
+###  Suspeita de vazamento em mineradora no Pará faz moradores temerem sofrer a mesma tragédia de Mariana, 2018.
+
+A comunidade ficou assustada com um [possível vazamento de rejeitos](https://g1.globo.com/pa/para/noticia/suspeita-de-vazamento-em-mineradora-no-para-faz-moradores-temerem-sofrer-a-mesma-tragedia-de-mariana.ghtml) de uma mineradora. Fotos feitas no município mostram uma alteração na cor da água do rio, que invadiu as casas próximas à empresa. Testemunhas dizem que a lama teria vindo da minerdora Hydro Alunorte, que processa bauxita a dois quilômetros da comunidade.O Ministério Público do Pará abriu dois inqueritos pra apurar as denúncias. Peritos do Instituto Evandro Chagas coletaram amostras de água. 
+
+###  Paragominas: Barragem rompe na madrugada e deixa mortos e desaparecidos, 2018.
+
+Segundo o [Correio de Carajás](https://correiodecarajas.com.br/paragominas-barragem-rompe-na-madrugada-e-deixa-mortos-e-desaparecidos/), a Prefeitura Municipal de Paragominas confirmou em nota divulgada agora pouco a morte de duas crianças em decorrência da tragédia que pegou os moradores do município de surpresa durante a madrugada. Há relatos de que uma barragem tenha se rompido em decorrência das fortes chuvas, causando o transbordamento do Rio Uraim e alagamentos em toda a cidade. No posicionamento, a administração informou que já decretou estado de calamidade pública em toda a extensão do munícipio de Paragominas, em virtude de desastres.
+
+
+
+
+
 
 ## Referências 
 
