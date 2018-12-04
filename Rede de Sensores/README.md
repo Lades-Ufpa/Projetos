@@ -105,10 +105,13 @@ A comunidade ficou assustada com um [possível vazamento de rejeitos](https://g1
 
 Segundo o [Correio de Carajás](https://correiodecarajas.com.br/paragominas-barragem-rompe-na-madrugada-e-deixa-mortos-e-desaparecidos/), a Prefeitura Municipal de Paragominas confirmou em nota divulgada agora pouco a morte de duas crianças em decorrência da tragédia que pegou os moradores do município de surpresa durante a madrugada. Há relatos de que uma barragem tenha se rompido em decorrência das fortes chuvas, causando o transbordamento do Rio Uraim e alagamentos em toda a cidade. No posicionamento, a administração informou que já decretou estado de calamidade pública em toda a extensão do munícipio de Paragominas, em virtude de desastres.
 
+### Operação interdita garimpos ilegais em São Felix do Xingu, no Pará, 2018.
 
+Uma [operação de combate a garimpos ilegais](https://g1.globo.com/pa/para/noticia/operacao-interdita-garimpos-ilegais-em-sao-felix-do-xingu-no-para.ghtml) dentro de áreas de florestas apreendeu máquinas e outros equipamentos no município de São Félix do Xingu, no sudeste do Pará. Na operação, os fiscais encontraram máquinas que teriam sido usadas para derrubar árvores e escavar o solo para a extração de ouro. Além disso, foi encontrado equipamento usado para bombear água do rio para lavar a terra onde estaria o mineral.
 
+### Laudo da PF alerta para ‘volume absurdo’ de lama despejada na Bacia do Rio Tapajós, 2018.
 
-
+"Volume absurdo". "Quantidade bastante preocupante". "Níveis acima dos tolerados". Estas frases foram utilizadas pelo perito criminal federal da Polícia Federal de Santarém, Gustavo Geiser, sobre o [laudo técnico](https://g1.globo.com/pa/santarem-regiao/noticia/2018/09/27/laudo-da-pf-alerta-para-volume-absurdo-de-lama-despejada-na-bacia-do-rio-tapajos.ghtml) que está sendo montado acerca da poluição dos rios da Bacia do Tapajós, oriunda da atividade ilegal de garimpo na região de Itaituba, sudoeste do Pará. O laudo aponta para níveis de mercúrio e cianeto, que são utilizados para facilitar a mineração de ouro, acima dos tolerados, o que impacta diretamente na saúde humana. Além disso, a quantidade de lama (sedimentos) jogada na Bacia do Tapajós com a atividade garimpeira preocupa bastante. De acordo com o documento, cerca de sete milhões de toneladas do material são descarregados nos rios, anualmente.
 
 ## Referências 
 
