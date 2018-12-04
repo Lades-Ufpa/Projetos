@@ -68,6 +68,7 @@ Além disso utilizou-se como fonte de informação a biblioteca digital IEEE Exp
 ## Acidentes e Desastres Ambientais no Pará
 
 <img src="Imagens/linha-do-tempo-desastres-no-para.png" alt="Linha do tempo" align="center"/>
+**Figura 1. Linha do tempo dos desastres ambientais no Pará
 
 ### Megaoperação fecha 13 serrarias e apreende R$ 6 milhões em madeira ilegal, 2009.
 
