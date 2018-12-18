@@ -54,16 +54,15 @@ Analisando os dados, a utilização de rede de sensores para monitoramento ambie
 
 ## Objetivos
 
-O objetivo do projeto é desenvolver uma avaliação de desempenho em cenários de elevada e baixa taxa de transferência para redes de sensores sem fio como visto em [Muhamad S. e Hamed S, 2013], fazendo uma proposta de estudo de caso para região nordeste paraense, tendo como premissa a elaboração cenários de simulação levando em conta as características da região em estudo, como a variabilidade climática, as altas taxas de umidade no ar que podem interferir na transmissão de dados, como pode ser visto em [Kohta Ohshima e Hiroshi Hara 2012], também inclui-se a essas características, das longas áreas desde cultivo à agropecuária ou até as mesmo pequenas de agricultura familiar, que para se ter um controle sobre a rede que irá monitorá-las terão que visar uma maior eficiência energética, atrasos menores e emprego de protocolos que otimizem a rede [Mohamed e Ahmad, 2016]; a partir dessas simulações serão extraídos dados para averiguar a viabilidade da utilização de rede de sensores sem fio para região, além do estudo de caso, espera-se também realizar uma análise de desempenho para esse tipo de rede, alguns parâmetros de rede principais, tais como a porcentagem de perda de pacotes, taxa de transferência, atraso fim-a-fim, jitter e o consumo de energia serão analisados, baseados no estudo desenvolvido em [Oliveira, 2015], [Faieza Hanum, 2009] e [Álisson de Oliveira Alves e Felipe Denis, 2016].
+Realizar uma avaliação de desempenho em cenários de elevada e baixa taxa de transferência de dados para RSSF utilizando os padrões IEEE 802.11a e IEEE 802.11b, em uma proposta de estudo de caso para a região paraense.
 
 ### Objetivos Específicos
 
-* Aprender as abstrações do ambiente de simulação;
-* Estudar cenários ambientais;
-* Estudar cenários aquáticos e suas peculiaridades;
-* Estudar cenários da região nordeste paraense;
-* Estudar cenários de elevada e baixa transferência de dados;
-* Realizar experimentos comparativos;
+* Propor cenários de utilização de RSSF para o contexto paraense;
+* Realizar uma avaliação de desempenho em cenários de baixa e alta transferência de dados por um simulador de eventos discretos;
+* Avaliar os impactos da distribuição dos sensores em topologia aleatória e organizada;
+* Realizar experimentos comparativos dos mecanismos de modulação dos padrões IEEE 802.11a e IEEE 802.11b;
+* Realizar experimentos comparativos dos mecanismos de entrega de pacotes reativos e proativos. 
 
 ## Materiais e Métodos
 
